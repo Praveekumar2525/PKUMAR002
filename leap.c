@@ -8,4 +8,4 @@ else
 printf("No");
 	return 0;
 }
-getch();
+getch(); 
